@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D1/S8LQ3ZX9W6R7YYR3A59A2I.uasset",
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PL/VP9DJ3BHPF1CTKYKI3V0UF.uasset",
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/D6/IJ6LMCHPXPM1ODS8WPQVW5.uasset",
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VA/ABD2BU288LVWGUOZFGVMLD.uasset",
+				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IC/HK1HBCDMFGX8FOGIHP6A84.uasset",
+				"D:/UE_Projects/Multi4Player/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/UE_Projects/Multi4Player/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
