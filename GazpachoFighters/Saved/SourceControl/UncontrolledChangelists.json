@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GAZPACHO/GazpachoFighters/GazpachoFighters/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/GAZPACHO/GazpachoFighters/GazpachoFighters/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PL/VP9DJ3BHPF1CTKYKI3V0UF.uasset",
+				"C:/GAZPACHO/GazpachoFighters/GazpachoFighters/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/D6/IJ6LMCHPXPM1ODS8WPQVW5.uasset",
+				"C:/GAZPACHO/GazpachoFighters/GazpachoFighters/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VA/ABD2BU288LVWGUOZFGVMLD.uasset",
+				"C:/GAZPACHO/GazpachoFighters/GazpachoFighters/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D1/S8LQ3ZX9W6R7YYR3A59A2I.uasset",
 				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D1/S8LQ3ZX9W6R7YYR3A59A2I.uasset",
 				"D:/UE_Projects/Multi4Player/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PL/VP9DJ3BHPF1CTKYKI3V0UF.uasset",
